@@ -76,7 +76,18 @@ A full-stack inventory management platform for managing products, warehouses, st
 
 ---
 <br>
+<br>
 
+<h2>📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhsh03&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<br>
 
 
 <br>
