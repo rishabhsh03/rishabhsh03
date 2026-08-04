@@ -9,32 +9,36 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Languages
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rishabhsh03&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhsh03&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
 </p>
 
-<p align="center">
+### ⚛️ Frontend
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhsh03&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
 
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman" />
 </p>
 
 <br>
