@@ -76,15 +76,7 @@ A full-stack inventory management platform for managing products, warehouses, st
 
 ---
 <br>
-<br>
 
-<h2>🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/rishabhsh03">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-</p>
 
 
 <br>
@@ -95,4 +87,13 @@ A full-stack inventory management platform for managing products, warehouses, st
     src="https://raw.githubusercontent.com/rishabhsh03/rishabhsh03/output/github-contribution-grid-snake.svg"
     alt="Contribution Snake"
   />
+</p>
+<br>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/rishabhsh03">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
 </p>
