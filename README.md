@@ -55,7 +55,46 @@
 </p>
 
 <br>
+<br>
 
+<h2>🚀 Featured Projects</h2>
+
+### 📦 Warehouse & Inventory Management System
+
+A full-stack inventory management platform for managing products, warehouses, stock movements, orders, suppliers, and inventory transactions.
+
+**Tech Stack:** React • Node.js • Express • PostgreSQL
+
+**Features:**
+- 📊 Inventory dashboard
+- 📦 Product & stock management
+- 🏭 Factory → Warehouse → Destination tracking
+- 🔄 Stock movement & transaction tracking
+- 🛒 Order management
+- 📉 Low-stock monitoring
+- 🔐 Authentication & authorization
+
+---
+
+### 🤖 Jarvis — Desktop Automation Assistant
+
+A modular desktop automation assistant designed to understand commands and safely execute system operations.
+
+**Tech Stack:** Node.js • JavaScript • Linux
+
+**Architecture:**
+
+`Intent Engine → Planner → Permission Manager → Executor → Commands`
+
+**Features:**
+- 🧠 Intent detection
+- 📋 Command planning
+- 🔐 Permission checks before execution
+- 💻 Application launching
+- ⚙️ Modular command system
+- 📝 Execution logging
+
+<br>
 ## 🐍 My Contributions
 
 <p align="center">
