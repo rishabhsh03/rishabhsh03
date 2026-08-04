@@ -1,6 +1,5 @@
+## 🐍 My Contributions
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rishabh+Sharma;Full+Stack+Developer;AI+%26+NLP+Learner;React+•+Node.js+•+PostgreSQL;Ubuntu+Linux+Developer" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhsh03&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/rishabhsh03/rishabhsh03/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
