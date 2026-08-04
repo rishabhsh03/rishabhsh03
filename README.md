@@ -6,7 +6,17 @@
     alt="Typing SVG"
   />
 </h3>
+## 👨‍💻 About Me
 
+- 🔭 Currently building **Full Stack & Backend Projects**
+- 🌱 Learning **React, Node.js, System Design & Backend Architecture**
+- 🧠 Exploring **AI, NLP & Machine Learning**
+- 🐧 Linux enthusiast — Ubuntu & Arch Linux
+- 🛠️ I enjoy building **APIs, automation tools and real-world applications**
+- 🎯 Goal: Become a strong **Backend / Full Stack Engineer**
+- 🎬 Also interested in **Filmmaking & Cinematography**
+
+<br>
 <br>
 
 ## 🛠️ Tech Stack
