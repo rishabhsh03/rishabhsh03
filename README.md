@@ -6,7 +6,10 @@
     alt="Typing SVG"
   />
 </h3>
-## 👨‍💻 About Me
+
+<br>
+
+<h2>👨‍💻 About Me</h2>
 
 - 🔭 Currently building **Full Stack & Backend Projects**
 - 🌱 Learning **React, Node.js, System Design & Backend Architecture**
