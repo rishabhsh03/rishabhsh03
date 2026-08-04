@@ -9,6 +9,36 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rishabhsh03&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhsh03&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhsh03&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+
+</p>
+
+<br>
+
 ## 🐍 My Contributions
 
 <p align="center">
