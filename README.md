@@ -101,6 +101,16 @@ A full-stack inventory management platform for managing products, warehouses, st
 </p>
 <br>
 
+<h2>👀 Profile Views</h2>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=rishabhsh03&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+<br>
+
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
