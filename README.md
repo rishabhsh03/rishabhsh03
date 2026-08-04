@@ -75,26 +75,6 @@ A full-stack inventory management platform for managing products, warehouses, st
 - 🔐 Authentication & authorization
 
 ---
-
-### 🤖 Jarvis — Desktop Automation Assistant
-
-A modular desktop automation assistant designed to understand commands and safely execute system operations.
-
-**Tech Stack:** Node.js • JavaScript • Linux
-
-**Architecture:**
-
-`Intent Engine → Planner → Permission Manager → Executor → Commands`
-
-**Features:**
-- 🧠 Intent detection
-- 📋 Command planning
-- 🔐 Permission checks before execution
-- 💻 Application launching
-- ⚙️ Modular command system
-- 📝 Execution logging
-
-<br>
 <br>
 
 <h2>🚀 Featured Project</h2>
