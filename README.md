@@ -77,21 +77,6 @@ A full-stack inventory management platform for managing products, warehouses, st
 ---
 <br>
 
-<h2>🚀 Featured Project</h2>
-
-### 🤖 Automation-CGI
-
-An automation-focused project designed to simplify repetitive tasks and build intelligent workflows.
-
-**Tech Stack:** JavaScript • Node.js • Linux
-
-**Features:**
-- ⚙️ Task automation
-- 🧠 Intelligent command processing
-- 🔐 Controlled & secure execution
-- 💻 System-level operations
-- 🧩 Modular architecture
-- 📝 Activity and execution logging
 
 <br>
 ## 🐍 My Contributions
