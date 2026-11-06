@@ -1,120 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
+# Hi 👋, I'm Rishabh Sharma
 
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Developer;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
-    alt="Typing SVG"
-  />
-</h3>
+### Backend Developer | MCA Student | Building real-world applications
 
-<br>
+## 👨‍💻 About Me
 
-<h2>👨‍💻 About Me</h2>
-
-- 🔭 Currently building **Full Stack & Backend Projects**
-- 🌱 Learning **React, Node.js, System Design & Backend Architecture**
-- 🧠 Exploring **AI, NLP & Machine Learning**
-- 🐧 Linux enthusiast — Ubuntu & Arch Linux
-- 🛠️ I enjoy building **APIs, automation tools and real-world applications**
-- 🎯 Goal: Become a strong **Backend / Full Stack Engineer**
-- 🎬 Also interested in **Filmmaking & Cinematography**
-
-<br>
-<br>
+- 🎓 Pursuing MCA (Expected 2027)
+- 💻 Interested in Backend Development and Software Engineering
+- 🌱 Learning Node.js, Express.js, PostgreSQL and System Design
+- ⚛️ Building frontend applications with React
+- 🧠 Exploring Python, NLP and RAG
+- 🐧 Linux enthusiast
+- 🎬 Interested in Filmmaking and Cinematography
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
+JavaScript • Python • SQL • HTML • CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
-</p>
+### Backend
+Node.js • Express.js
 
-### ⚛️ Frontend
+### Frontend
+React • Vite • Tailwind CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite" />
-</p>
+### Database
+PostgreSQL • Sequelize
 
-### ⚙️ Backend
+### Tools
+Git • GitHub • Docker • Linux • Postman • VS Code
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+## 🚀 Featured Projects
 
-### 🗄️ Database
+### Warehouse & Inventory Management System
+[View Repository](https://github.com/rishabhsh03/Automation-CGI)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
+A project focused on warehouse operations, inventory tracking and stock management.
 
-### 🔧 Tools & Platforms
+### Backend Development
+[View Repository](https://github.com/rishabhsh03/Backend)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman" />
-</p>
+Backend development practice and projects.
 
-<br>
-<br>
+## 🎓 Education
 
-<h2>🚀 Featured Projects</h2>
+- MCA — S.S. Jain Subodh P.G. College (Expected 2027)
+- BCA — S.S. Jain Subodh College of Global Excellence
 
-### 📦 Warehouse & Inventory Management System
+## 🌐 Connect With Me
 
-A full-stack inventory management platform for managing products, warehouses, stock movements, orders, suppliers, and inventory transactions.
-
-**Tech Stack:** React • Node.js • Express • PostgreSQL
-
-**Features:**
-- 📊 Inventory dashboard
-- 📦 Product & stock management
-- 🏭 Factory → Warehouse → Destination tracking
-- 🔄 Stock movement & transaction tracking
-- 🛒 Order management
-- 📉 Low-stock monitoring
-- 🔐 Authentication & authorization
-
----
-<br>
-<br>
-
-<h2>📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhsh03&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br>
-
-
-<br>
-## 🐍 My Contributions
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rishabhsh03/rishabhsh03/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
-</p>
-<br>
-
-<h2>👀 Profile Views</h2>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rishabhsh03&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-<br>
-
-<h2>🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/rishabhsh03">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/rishabh-sharma-401715272/)
+- [Portfolio](https://portfolio-sigma-azure-81.vercel.app)
+- [GitHub](https://github.com/rishabhsh03)
